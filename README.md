@@ -1,3 +1,12 @@
+# Software-Carpentry Workshop for the National Society of Black Engineers
+
+If you are an attendee for the workshop you probably meant to go to this repository:  
+https://github.com/chendaniely/2016-11-03-nsbe-workshop
+
+This repository is actually the workshop website:  https://chendaniely.github.io/2016-11-03-nsbe
+
+
+
 # workshop-template
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
